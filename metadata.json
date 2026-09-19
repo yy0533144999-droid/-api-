@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix פורום דיונים - מערכות טלפוניה ו-IVR",
+  "description": "ממשק פורום דיוני אונליין מודרני בעיצוב קלאסי-נקי בהשראת NodeBB, תומכים טופ וימות המשיח",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
